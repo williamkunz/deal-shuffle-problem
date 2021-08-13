@@ -8,7 +8,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "commander": "^3.0.2",
-    "next": "^9.1.1",
+    "next": "^11.1.0",
     "next-redux-wrapper": "^4.0.1",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
